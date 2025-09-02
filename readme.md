@@ -7,7 +7,7 @@
 
 
 
-Answer no 1:
+Answer:
 
 1. When we are using the getElementById we are selecting a item with a specific id and only that specific id holder element get the js code that we want to write. getElementsByClassName it is almost the similar. but here we have the chance to select multiple item at single time as well as we are able to use loop to do something that we need with each item. for the querySelector / querySelectorAll they are almost similar. querySelector returns only the first item it gets and the querySelectorAll returns all the item it has and also we use a .for using this.
 
